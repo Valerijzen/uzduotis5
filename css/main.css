@@ -1,0 +1,32 @@
+body
+{background-color: rgb(11, 10, 10);}
+#container {
+    width: 500px;
+    height: 700px;
+    background-color:gray;
+    margin-top: 50px;
+    margin-left: calc((100% - 400px)/2);
+    border-radius: 0px;
+}
+.nameLine{
+    display: inline-block;
+}
+
+.m-b-s{
+    margin-left: 18px;
+}
+input {
+    all: unset;
+    background-color: rgba(220, 220, 220, 0.418);
+    height: 30px;
+    border-radius: 0px;
+    width:140px;
+    margin-left: auto;
+}
+
+.m-b-m{
+    margin-left: 18px;
+    /* height: 30px; */
+    /* width: 400px; */
+}
+
